@@ -1,0 +1,3 @@
+﻿ECHO Press Enter When Ready
+PAUSE
+REM Other commands here...
